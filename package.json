@@ -1,0 +1,23 @@
+{
+  "name": "generator-myspring",
+  "version": "1.0.0",
+  "description": "My Yeoman generator for Spring projects\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nielsutrecht/generator-myspring.git"
+  },
+  "keywords": [
+    "yeoman",
+    "spring"
+  ],
+  "author": "Niels Dommerholt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nielsutrecht/generator-myspring/issues"
+  },
+  "homepage": "https://github.com/nielsutrecht/generator-myspring#readme"
+}
