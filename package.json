@@ -10,7 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/nielsutrecht/generator-myspring.git"
   },
+  "files": [
+    "generators/app"
+  ],
   "keywords": [
+    "yeaman-generator",
     "yeoman",
     "spring"
   ],
@@ -19,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/nielsutrecht/generator-myspring/issues"
   },
-  "homepage": "https://github.com/nielsutrecht/generator-myspring#readme"
+  "homepage": "https://github.com/nielsutrecht/generator-myspring#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.23.4"
+  }
 }
